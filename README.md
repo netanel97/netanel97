@@ -2,8 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">𝙎𝙩𝙪𝙙𝙚𝙣𝙩 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙖𝙩 𝘼𝙛𝙚𝙠𝙖 𝘾𝙤𝙡𝙡𝙚𝙜𝙚</h2>
 
-# 💫 About Me:
-🎓I'm 3rd year student software engineering at Afeka college.<br>🤖I'm enthusiastic with expanding  my knowledge.<br>
 
 
 ## 🌐 Socials:
@@ -17,4 +15,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=netanel97&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Netanel&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
+[![](https://visitcount.itsvg.in/api?id=netanel97&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
