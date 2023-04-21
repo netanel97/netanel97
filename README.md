@@ -9,7 +9,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=netanel97&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Netanel&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=netanel97&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 [![](https://visitcount.itsvg.in/api?id=netanel97&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <!--- bdika 
 
